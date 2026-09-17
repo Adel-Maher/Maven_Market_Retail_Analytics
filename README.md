@@ -42,8 +42,8 @@ The final dashboard is structured into 7 core analytical modules:
 
 To open and run this project, ensure you have the following installed:
 
-* **Power BI Desktop
-* **SQL Server Management Studio (SSMS)** or **SQL Server
+**Power BI Desktop**
+* **SQL Server Management Studio (SSMS)** or **SQL Server**
 * Maven Market source datasets (`MavenMarket_Customers.csv`, `MavenMarket_Products.csv`, `MavenMarket_Stores.csv`, `MavenMarket_Returns.csv`, `MavenMarket_Transactions_All.csv`, `MavenMarket_Calendar.csv`)
 
 ---
